@@ -1,8 +1,3 @@
-# Interactive-resume
-My first HTML project - Interactive resume templat
-
-
-
 # Interactive Resume Template 
 
 My first HTML/CSS project - A modern, responsive resume template.
